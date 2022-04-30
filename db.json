@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "name": "Pauly",
+      "id": 10101,
+      "skills": [
+        "React",
+        "Angular",
+        "Js"
+      ],
+      "project": "Cognizant Internal",
+      "hcm": "Alex",
+      "gender": "male"
+    },
+    {
+      "name": "Manasa",
+      "id": 20202,
+      "skills": [
+        "React",
+        "Angular",
+        "Js"
+      ],
+      "project": "Cognizant Internal",
+      "hcm": "Alex",
+      "gender": "female"
+    },
+    {
+      "name": "stephie",
+      "id": 20202,
+      "skills": [
+        "React",
+        "Angular",
+        "Js"
+      ],
+      "project": "Cognizant Internal",
+      "hcm": "Alex",
+      "gender": "female"
+    },
+    {
+      "name": "Harish",
+      "id": 40404,
+      "skills": [
+        ""
+      ],
+      "project": "Cognizant Internal",
+      "hcm": "Alex",
+      "gender": "male"
+    },
+    {
+      "name": "Rajesh",
+      "id": 50505,
+      "skills": [
+        "React",
+        "Angular",
+        "Js"
+      ],
+      "project": "Cognizant Internal",
+      "hcm": "Alex",
+      "gender": "male"
+    },
+    {
+      "name": "Sruthi Surnedi",
+      "id": 60606,
+      "skills": [
+        "React",
+        "Angular",
+        "Js"
+      ],
+      "project": "Cognizant Internal",
+      "hcm": "Alex",
+      "gender": "female"
+    },
+    {
+      "name": "Alent Tomy",
+      "id": 70707,
+      "skills": [
+        "React",
+        "Angular",
+        "Js"
+      ],
+      "project": "Cognizant Internal",
+      "hcm": "Alex",
+      "gender": "male"
+    },
+    {
+      "name": "Sweta",
+      "id": 80808,
+      "skills": [
+        "React",
+        "Angular",
+        "Js"
+      ],
+      "project": "Cognizant Internal",
+      "hcm": "Alex",
+      "gender": "female"
+    },
+    {
+      "name": "Narsimha",
+      "id": 90909,
+      "skills": [
+        "React",
+        "Angular",
+        "Js"
+      ],
+      "project": "Cognizant Internal",
+      "hcm": "Alex",
+      "gender": "male"
+    },
+    {
+      "name": "Samantha",
+      "id": 10010,
+      "skills": [
+        "React",
+        "Angular",
+        "Js"
+      ],
+      "project": "Cognizant Internal",
+      "hcm": "Alex",
+      "gender": "female"
+    }
+  ]
+}
